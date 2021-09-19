@@ -1,0 +1,18 @@
+{
+  "name": "otso-git",
+  "version": "0.0.1",
+  "description": "Git plugin for otso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cogwizzle",
+  "license": "MIT",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
